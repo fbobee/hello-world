@@ -1,6 +1,6 @@
 # hello-world
 jatek repository
 
-Bla bla bla bla.
-
 Blah blablablah blah.
+
+A homokozó az a hely, ahol átélheted az építés örömét a Tüzép-számla kifizetése nélkül.
