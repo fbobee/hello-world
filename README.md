@@ -1,9 +1,10 @@
 # hello-world
 jatek repository
 
-Blah blablablah blah.
+Bla bla bla bla.
 
-A homokozó az a hely, ahol átélheted az építés örömét a Tüzép-számla kifizetése nélkül.
+
+Blah blablablah blah.
 
 almás pite
 
