@@ -10,6 +10,3 @@ almás pite
 
 túrós pite
 
-almaaaaa
-
-
