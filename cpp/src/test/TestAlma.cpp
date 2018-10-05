@@ -15,7 +15,7 @@ public:
 
 TEST_F(TestAlma, alma){
   Alma a;
-  EXPECT_EQ(4,a.alma(3));
+  EXPECT_EQ(4,a.alma(1));
 }
 
 int main (int argc, char **argv) {

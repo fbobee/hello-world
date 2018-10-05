@@ -3,7 +3,9 @@
 
 class Alma{
 public:
-  int alma(int n){ return 0; /* TODO should return n+3 */ }
+  int alma(int n){
+     return n+3;
+  }
 };
 
 #endif
