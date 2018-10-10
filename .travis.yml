@@ -1,8 +1,12 @@
+language: cpp
+
 jobs:
   inlcude:
-    -
-      language: cpp
-      script: ./configure && make && make test
-    -
-      language: cpp
-      script: ./configure && make && make test
+    #- name: "cpp"
+    #  script: ./configure && make && make test
+    #- name: "another cpp"
+    #  script: ./configure && make && make test
+    - name: "alma"
+      script: echo alma
+    - name: "korte"
+      script: echo korte
