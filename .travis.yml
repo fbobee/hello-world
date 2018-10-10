@@ -1,4 +1,8 @@
 matrix:
   inlcude:
-    - language: cpp
+    -
+      language: cpp
+      script: ./configure && make && make test
+    -
+      language: cpp
       script: ./configure && make && make test
