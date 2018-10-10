@@ -1,4 +1,7 @@
 # hello-world
+
+[![Build Status](https://travis-ci.com/fbobee/hello-world.svg?branch=master)](https://travis-ci.com/fbobee/hello-world)
+
 jatek repository
 
 Bla bla bla bla.
