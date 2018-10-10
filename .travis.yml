@@ -3,6 +3,7 @@ sudo: false
 jobs:
   include:
     - stage: unit tests
+      language: cpp
       script: echo one
     - stage: unit tests
       script: echo two
