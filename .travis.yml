@@ -1,2 +1,4 @@
-language: cpp
-script: ./configure && make && make test
+matrix:
+  inlcude:
+    - language: cpp
+      script: ./configure && make && make test
