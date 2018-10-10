@@ -1,8 +1,8 @@
 jobs:
   include:
-    - 
+    - name: "alma"
       language: cpp
       script: echo one
-    - 
+    - name: "korte"
       language: python
       script: echo two
