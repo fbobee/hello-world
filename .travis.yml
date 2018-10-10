@@ -7,6 +7,8 @@ jobs:
     #- name: "another cpp"
     #  script: ./configure && make && make test
     - name: "alma"
+      stage: "blah"
       script: echo alma
     - name: "korte"
+      stage: "blahblah"
       script: echo korte
