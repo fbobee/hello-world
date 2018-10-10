@@ -1,8 +1,8 @@
 jobs:
   include:
-    - name: "alma"
+    - name: "unit tests"
       language: cpp
-      script: echo one
-    - name: "korte"
+      script: ./configure && make && make test
+    - name: "integration tests"
       language: python
       script: echo two
