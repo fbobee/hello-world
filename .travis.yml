@@ -1,5 +1,5 @@
-language: generic
-matrix:
+language: cpp
+jobs:
   inlcude:
     -
       script: ./configure && make && make test
