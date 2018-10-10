@@ -3,6 +3,7 @@ jobs:
     - name: "unit tests"
       language: cpp
       script: ./configure && make && make test
+  allow_failures:
     - name: "integration tests"
       language: python
       script: echo two
