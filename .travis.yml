@@ -1,4 +1,4 @@
-jobs:
+matrix:
   include:
     - name: "unit tests"
       language: cpp
