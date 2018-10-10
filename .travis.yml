@@ -6,4 +6,5 @@ jobs:
       language: cpp
       script: echo one
     - stage: unit tests
+      language: python
       script: echo two
